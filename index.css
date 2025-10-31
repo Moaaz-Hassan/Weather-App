@@ -233,4 +233,12 @@
     border-top-left-radius: 10px;
     border-bottom-left-radius: 0px;
   }
+
+}
+@media (max-width: 900px) {
+    .font-white-larg{
+        font-size: 60px;
+        width: 600;
+
+  }
 }
